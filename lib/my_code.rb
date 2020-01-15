@@ -25,7 +25,14 @@ end
 array
 end
 
-def 
+def map_to_double (array) do
+  count = 0
+  if count < array.length do
+    array[count] = array[count] * 2
+  count++
+end
+array
+end
 
 
 
