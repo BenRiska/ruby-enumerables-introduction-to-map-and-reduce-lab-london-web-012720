@@ -25,10 +25,10 @@ end
 array
 end
 
-def map_to_double (array) do
+def map_to_square (array) do
   count = 0
   if count < array.length do
-    array[count] = array[count] * 2
+    array[count] = array[count]**
   count++
 end
 array
