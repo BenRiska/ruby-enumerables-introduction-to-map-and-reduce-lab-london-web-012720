@@ -8,3 +8,4 @@ def map_to_negativize (array) do
   end
   array
 end
+
