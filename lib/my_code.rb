@@ -44,6 +44,17 @@ end
 array
 end
 
+def reduce_to_all_true (array) do
+  count = 0
+  if count < array.length do
+    if array[count] != true do
+      return false
+    end
+  count++
+end
+return true
+end
+
 
 
 
