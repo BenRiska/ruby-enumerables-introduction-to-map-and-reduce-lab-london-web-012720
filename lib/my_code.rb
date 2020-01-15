@@ -10,6 +10,11 @@ def map_to_negativize (array) do
 end
 
 def map_to_no_change (array) do
+  count = 0
   
-  array
+  if count < array.length do
+  count++
+end
+
+array
 end
