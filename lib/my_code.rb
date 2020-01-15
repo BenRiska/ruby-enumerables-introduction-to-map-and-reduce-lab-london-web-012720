@@ -6,6 +6,5 @@ def map_to_negativize (array)
     array[count] = array[count] * -1
     count++
   end
-  
   array
 end
