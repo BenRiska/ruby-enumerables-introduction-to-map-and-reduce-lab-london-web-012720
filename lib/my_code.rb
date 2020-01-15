@@ -52,7 +52,7 @@ def reduce_to_all_true (array) do
     end
   count++
 end
-return true
+ true
 end
 
 
