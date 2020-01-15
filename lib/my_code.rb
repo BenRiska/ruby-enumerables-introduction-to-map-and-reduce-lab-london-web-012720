@@ -7,4 +7,3 @@ def map_to_negativize (array)
     count++
   end
   array
-end
