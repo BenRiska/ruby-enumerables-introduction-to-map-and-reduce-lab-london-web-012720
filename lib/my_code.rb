@@ -34,7 +34,15 @@ end
 array
 end
 
-
+def reduce_to_total (array) do
+  count = 0
+  total = 0
+  if count < array.length do
+    array[count] = array[count]**
+  count++
+end
+array
+end
 
 
 
